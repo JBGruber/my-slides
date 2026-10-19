@@ -1,5 +1,6 @@
 # Slides
 
+- PSIR Research Colloquium: [An AI-assisted self-building protest database](https://jbgruber.github.io/my-slides/JBGruber_PSIR.html)
 - DMRC Visitor Seminar: [An AI-assisted self-building protest database](https://jbgruber.github.io/my-slides/JBGruber_DMRC.html)
 - ISSR Lunchtime Seminar: [An AI-assisted self-building protest database](https://jbgruber.github.io/my-slides/2026_ISSR.html)
 - EPSS 2026: [Ghostcounting. A Bayesian Approach to Estimating Protester Counts and Medialevel Bias](https://jbgruber.github.io/my-slides/2026_EPSS.html)
